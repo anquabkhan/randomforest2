@@ -1,7 +1,7 @@
 # Machine learning project for Junk property classification using Random Forest Algorithm 
 Project Overview:
 <ul>
-<li> Achieved data analysis and data cleaning of the student database  </li>
+<li> Achieved data analysis and data cleaning of the junk property database  </li>
   <li> Created a boxplot for the age of the students in order to reconganize and remove the outliers </li>
   <li> Performed Data preprocessing by entering Dummy inputs for the gender colunm </li>
   <li> Performed regressive Kmeans and used the elbow point to determine optimum number of clusters </li>
