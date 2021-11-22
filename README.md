@@ -15,11 +15,3 @@ Project Overview:
   <li> Tools and algorithms- Google colab, train_test_split, confusion_matrix, classification_report, RandomForestClassifier, PandasProfiling </li> 
 </ul>
 
-# Data Exploration:
-This is what the DataExploration looks like -
-
-![newplot](/images/sms-1.png)
-![newplot (1)](/images/sms-2.png)
-
-
-
